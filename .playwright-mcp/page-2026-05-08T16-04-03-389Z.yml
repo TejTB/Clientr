@@ -1,0 +1,38 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "CLIENTR home" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e7]:
+            - link "Leads" [ref=e8] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - generic [ref=e11]: "3"
+            - generic [ref=e12]: /
+            - generic [ref=e13]: "3"
+            - generic [ref=e14]: searches
+          - button "Upgrade" [ref=e15] [cursor=pointer]
+          - button "Sign out" [ref=e17] [cursor=pointer]
+    - main [ref=e18]:
+      - link "Back to leads" [ref=e19] [cursor=pointer]:
+        - /url: /
+        - img [ref=e20]
+        - text: Back to leads
+      - paragraph [ref=e23]: Find new leads
+      - heading "Find new leads." [level=1] [ref=e24]
+      - paragraph [ref=e25]: Describe your ideal client. The more specific, the better the prospects.
+      - generic [ref=e27]:
+        - textbox "e.g. Independent skincare brands in London with under 20k followers, founder-led, clearly DIY Squarespace site, no clear brand system. I do web design and Meta ads." [active] [ref=e28]: Independent skincare brands in London with 5k-20k Instagram followers and a poor quality website
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - img [ref=e31]
+            - text: "Tip: include industry, location, size and what makes them a fit."
+          - generic [ref=e33]: 96 / 500
+        - generic [ref=e34]:
+          - generic [ref=e35]: 3 searches left
+          - button "Find prospects" [ref=e36] [cursor=pointer]
+  - alert [ref=e37]

@@ -1,0 +1,37 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "CLIENTR home" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e7]:
+            - link "Leads" [ref=e8] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - generic [ref=e11]: "2"
+            - generic [ref=e12]: /
+            - generic [ref=e13]: "3"
+            - generic [ref=e14]: searches
+          - button "Upgrade" [ref=e15] [cursor=pointer]
+          - button "Sign out" [ref=e17] [cursor=pointer]
+    - main [ref=e18]:
+      - link "Back to leads" [ref=e19] [cursor=pointer]:
+        - /url: /
+        - img [ref=e20]
+        - text: Back to leads
+      - paragraph [ref=e23]: Find new leads
+      - heading "Find new leads." [level=1] [ref=e24]
+      - paragraph [ref=e25]: Describe your ideal client. The more specific, the better the prospects.
+      - generic [ref=e38]:
+        - generic [ref=e39]: CLIENTR
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - generic [ref=e42]: Searching
+            - generic [ref=e43]: 27%
+          - progressbar [ref=e44]
+        - paragraph [ref=e46]:
+          - generic [ref=e47]: Analysing Instagram presence and follower counts...
+  - alert [ref=e37]

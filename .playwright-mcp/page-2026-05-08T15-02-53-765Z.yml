@@ -1,0 +1,88 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e22]
+  - generic [ref=e23]:
+    - banner [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - link "CLIENTR home" [ref=e27] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e28]:
+            - link "Leads" [ref=e29] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - generic [ref=e32]: "3"
+            - generic [ref=e33]: /
+            - generic [ref=e34]: "3"
+            - generic [ref=e35]: searches
+          - button "Upgrade" [ref=e36] [cursor=pointer]
+          - button "Sign out" [ref=e38] [cursor=pointer]
+    - main [ref=e39]:
+      - link "Back to leads" [ref=e40] [cursor=pointer]:
+        - /url: /
+        - img [ref=e41]
+        - text: Back to leads
+      - paragraph [ref=e44]: Find new leads
+      - heading "Find new leads." [level=1] [ref=e45]
+      - paragraph [ref=e46]: Describe your ideal client. The more specific, the better the prospects.
+      - generic [ref=e47]: Welcome to CLIENTR. Start with your first search below.
+      - generic [ref=e48]:
+        - generic [ref=e69]:
+          - heading "2 prospects found" [level=2] [ref=e70]
+          - button "Deselect all" [ref=e71] [cursor=pointer]
+        - generic [ref=e72]:
+          - article [ref=e73] [cursor=pointer]:
+            - generic [ref=e75]:
+              - generic [ref=e77]:
+                - heading "Pai Skincare" [level=3] [ref=e78]
+                - generic [ref=e79]:
+                  - generic [ref=e80]: Skincare
+                  - generic "Fit score 2/10" [ref=e81]: 2/10
+                - paragraph [ref=e82]: London, UK
+              - button "Deselect prospect" [pressed] [ref=e83]:
+                - img [ref=e84]
+            - generic [ref=e86]:
+              - link "paiskincare.com" [ref=e87]:
+                - /url: https://www.paiskincare.com
+                - img [ref=e88]
+                - generic [ref=e92]: paiskincare.com
+              - link "https://www.instagram.com/paiskincare" [ref=e93]:
+                - /url: https://www.instagram.com/paiskincare
+                - img [ref=e94]
+                - generic [ref=e97]: https://www.instagram.com/paiskincare
+              - generic [ref=e98]: Custom
+              - generic [ref=e99]: 50k+ followers
+            - generic [ref=e100]:
+              - paragraph [ref=e101]: Why they're a fit
+              - paragraph [ref=e102]: Pai has grown significantly and has a polished brand presence. However, their follower count and revenue scale well beyond the ICP ceiling.
+              - paragraph [ref=e103]:
+                - img [ref=e104]
+                - generic [ref=e106]: Way too large — established brand with in-house team, professional site, and significant retail distribution. Outside ICP on every dimension.
+          - article [ref=e107] [cursor=pointer]:
+            - generic [ref=e109]:
+              - generic [ref=e110]:
+                - generic [ref=e111]: B
+                - generic [ref=e112]:
+                  - heading "Bushcraft and Bloom" [level=3] [ref=e113]
+                  - generic [ref=e114]:
+                    - generic [ref=e115]: Natural Skincare
+                    - generic "Fit score 1/10" [ref=e116]: 1/10
+                  - paragraph [ref=e117]: London, UK
+              - button "Deselect prospect" [pressed] [ref=e118]:
+                - img [ref=e119]
+            - generic [ref=e121]:
+              - generic [ref=e122]: Unknown
+              - generic [ref=e123]: 5k-10k followers
+            - generic [ref=e124]:
+              - paragraph [ref=e125]: Why they're a fit
+              - paragraph [ref=e126]: I cannot verify this business exists with confidence. Returning empty rather than fabricating details.
+              - paragraph [ref=e127]:
+                - img [ref=e128]
+                - generic [ref=e130]: Cannot confirm this is a real business — excluded to avoid fabricated data.
+        - generic [ref=e133]:
+          - paragraph [ref=e134]: 2 prospects selected
+          - button "Deselect all" [ref=e135] [cursor=pointer]
+          - button "Save to CLIENTR" [ref=e136] [cursor=pointer]:
+            - text: Save to CLIENTR
+            - img [ref=e137]

@@ -1,0 +1,98 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "CLIENTR home" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - text: CLIENTR
+        - generic [ref=e7]:
+          - generic [ref=e8]:
+            - generic [ref=e9]: "2"
+            - generic [ref=e10]: /
+            - generic [ref=e11]: "3"
+            - generic [ref=e12]: searches
+          - button "Upgrade" [ref=e13] [cursor=pointer]
+          - button "Sign out" [ref=e15] [cursor=pointer]
+    - banner [ref=e16]:
+      - generic [ref=e17]:
+        - link "Back to leads" [ref=e18] [cursor=pointer]:
+          - /url: /
+          - img [ref=e19]
+          - text: Back to leads
+        - generic [ref=e22]:
+          - heading "Pai Skincare" [level=1] [ref=e23]
+          - generic [ref=e24]:
+            - generic [ref=e25]: Outreach Sent
+            - generic "Fit score 2/10" [ref=e26]: 2/10
+            - generic [ref=e27]: Skincare
+            - generic [ref=e28]: London, UK
+            - generic [ref=e29]: Added 12m ago
+    - main [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - paragraph [ref=e35]: Outreach
+            - generic [ref=e36]:
+              - text: Hi Pai team, I have been admiring your packaging redesign and how clearly you articulate the science behind your formulas. I work with skincare brands on their site experience and noticed your product page imagery could be more consistent across the range. Would you be open to a 15 minute chat about it?
+              - button "Copy" [ref=e37] [cursor=pointer]:
+                - img [ref=e38]
+                - text: Copy
+          - generic [ref=e41]:
+            - generic [ref=e42]:
+              - paragraph [ref=e43]: Follow-up
+              - paragraph [ref=e44]: Generated 3m ago
+            - generic [ref=e45]:
+              - text: Just wanted to bump this up in case it got buried — I reached out a few days ago about your product page imagery and how a bit more consistency could tie your beautiful new packaging into the online experience. I know inboxes get hectic, so no pressure at all. Would a quick call still be worth exploring?
+              - button "Copy" [ref=e46] [cursor=pointer]:
+                - img [ref=e47]
+                - text: Copy
+          - generic [ref=e50]:
+            - paragraph [ref=e51]: Notes
+            - generic [ref=e52]:
+              - textbox "Add a note..." [ref=e53]
+              - generic [ref=e54]:
+                - generic [ref=e55]: 0 / 2000
+                - button "Add note" [disabled] [ref=e56]
+            - paragraph [ref=e57]: Loading notes...
+        - complementary [ref=e58]:
+          - generic [ref=e59]:
+            - paragraph [ref=e60]: Company
+            - generic [ref=e61]:
+              - link "www.paiskincare.com" [ref=e62] [cursor=pointer]:
+                - /url: https://www.paiskincare.com
+                - img [ref=e63]
+                - generic [ref=e67]: www.paiskincare.com
+              - link "https://www.instagram.com/paiskincare" [ref=e68] [cursor=pointer]:
+                - /url: https://www.instagram.com/paiskincare
+                - img [ref=e69]
+                - generic [ref=e72]: https://www.instagram.com/paiskincare
+          - generic [ref=e73]:
+            - paragraph [ref=e74]: Why they're a fit
+            - paragraph [ref=e75]: Pai has grown significantly and has a polished brand presence. However, their follower count and revenue scale well beyond the ICP ceiling.
+          - generic [ref=e76]:
+            - paragraph [ref=e77]: Signals
+            - generic [ref=e78]:
+              - generic [ref=e79]: Custom
+              - generic [ref=e80]: 50k+ followers
+          - generic [ref=e81]:
+            - paragraph [ref=e82]: Status
+            - generic [ref=e83]:
+              - button "New" [ref=e84] [cursor=pointer]
+              - button "Outreach Sent" [disabled] [ref=e85]
+              - button "Followed Up" [ref=e86] [cursor=pointer]
+              - button "Replied" [ref=e87] [cursor=pointer]
+              - button "Won" [ref=e88] [cursor=pointer]
+              - button "Lost" [ref=e89] [cursor=pointer]
+          - generic [ref=e90]:
+            - paragraph [ref=e91]: Quick actions
+            - generic [ref=e92]:
+              - button "Copy outreach" [ref=e93] [cursor=pointer]:
+                - img [ref=e94]
+                - text: Copy outreach
+              - button "Delete lead" [ref=e97] [cursor=pointer]:
+                - img [ref=e98]
+                - text: Delete lead
+          - generic [ref=e101]:
+            - paragraph [ref=e102]: Found via search
+            - paragraph [ref=e103]: Independent skincare brands in London with 5k-20k Instagram followers and a poor quality website
+  - alert [ref=e104]

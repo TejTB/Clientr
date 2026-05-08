@@ -1,0 +1,256 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "CLIENTR home" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e7]:
+            - link "Leads" [ref=e8] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - generic [ref=e11]: "1"
+            - generic [ref=e12]: /
+            - generic [ref=e13]: "3"
+            - generic [ref=e14]: searches
+          - button "Upgrade" [ref=e15] [cursor=pointer]
+          - button "Sign out" [ref=e17] [cursor=pointer]
+    - main [ref=e18]:
+      - link "Back to leads" [ref=e19] [cursor=pointer]:
+        - /url: /
+        - img [ref=e20]
+        - text: Back to leads
+      - paragraph [ref=e23]: Find new leads
+      - heading "Find new leads." [level=1] [ref=e24]
+      - paragraph [ref=e25]: Describe your ideal client. The more specific, the better the prospects.
+      - generic [ref=e26]:
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - heading "5 prospects found" [level=2] [ref=e50]
+            - paragraph [ref=e51]: Sorted by fit score. Select the ones you want to save.
+          - button "Deselect all" [ref=e52] [cursor=pointer]
+        - generic [ref=e53]:
+          - article [ref=e54] [cursor=pointer]:
+            - generic [ref=e56]:
+              - generic [ref=e58]:
+                - heading "Satta" [level=3] [ref=e59]
+                - paragraph [ref=e60]: Conscious UK Streetwear
+                - paragraph [ref=e61]:
+                  - generic [ref=e62]: 📍
+                  - text: London, UK
+              - generic [ref=e63]:
+                - generic "Fit score 9/10" [ref=e64]: 9/10
+                - button "Deselect prospect" [pressed] [ref=e65]:
+                  - img [ref=e66]
+            - generic [ref=e68]:
+              - generic [ref=e69]:
+                - generic [ref=e70]: 🌐
+                - generic [ref=e71]: Shopify
+              - generic [ref=e72]:
+                - generic [ref=e73]: 👥
+                - generic [ref=e74]: 15k-25k followers
+              - link "satta.co.uk" [ref=e75]:
+                - /url: https://www.satta.co.uk
+                - generic [ref=e76]: ↗
+                - generic [ref=e77]: satta.co.uk
+              - link "satta_uk" [ref=e78]:
+                - /url: https://instagram.com/satta_uk
+                - generic [ref=e79]: "@"
+                - generic [ref=e80]: satta_uk
+            - generic [ref=e81]:
+              - paragraph [ref=e82]: Why they're a fit
+              - paragraph [ref=e83]: Satta has a beautifully consistent visual identity on Instagram built around earth tones, spirituality, and slow fashion, but their Shopify store does not fully translate that atmosphere into the browsing experience, with product pages that feel standard rather than immersive. For a brand whose entire proposition is about considered living, a checkout experience that feels like any other Shopify store is brand dissonance that costs them at the conversion stage. A redesign focused on texture, storytelling, and intentional pacing would align the purchase journey with what the brand actually stands for.
+            - generic [ref=e84]:
+              - paragraph [ref=e85]:
+                - generic [ref=e86]: ⚡
+                - text: Why now
+              - paragraph [ref=e87]: Satta's growing alignment with the wellness and conscious fashion movements is bringing in an audience willing to pay premium prices, and capturing that spend requires a site that matches the premium expectation they arrive with.
+            - generic [ref=e88]:
+              - paragraph [ref=e89]: ⚠️ Note
+              - paragraph [ref=e90]: Satta's strong brand identity means the founder will have high creative standards and strong opinions, which is great for output quality but can extend timelines and require more strategic alignment work upfront.
+            - generic [ref=e91]:
+              - button "View outreach" [ref=e93]:
+                - text: View outreach
+                - img [ref=e94]
+              - generic [ref=e96]: The way you weave the philosophy of the brand into your content is something a lot of labels try to do and rarely pull off as naturally as you do. One thing that stands out though is that the site experience does not quite carry that same intentionality through to the point of purchase, and for the kind of customer you attract that gap probably matters more than it would for most brands. We work with founder-led brands to build Shopify stores that feel like an extension of the world they have already created on social. Would you be open to a conversation about what that could look like for Satta?
+          - article [ref=e97] [cursor=pointer]:
+            - generic [ref=e99]:
+              - generic [ref=e101]:
+                - heading "Perception Clothing" [level=3] [ref=e102]
+                - paragraph [ref=e103]: UK Independent Fashion
+                - paragraph [ref=e104]:
+                  - generic [ref=e105]: 📍
+                  - text: Birmingham, UK
+              - generic [ref=e106]:
+                - generic "Fit score 8/10" [ref=e107]: 8/10
+                - button "Deselect prospect" [pressed] [ref=e108]:
+                  - img [ref=e109]
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - generic [ref=e113]: 🌐
+                - generic [ref=e114]: Shopify
+              - generic [ref=e115]:
+                - generic [ref=e116]: 👥
+                - generic [ref=e117]: 9k-16k followers
+              - link "perceptionclothing.co.uk" [ref=e118]:
+                - /url: https://www.perceptionclothing.co.uk
+                - generic [ref=e119]: ↗
+                - generic [ref=e120]: perceptionclothing.co.uk
+              - link "perceptionclothing" [ref=e121]:
+                - /url: https://instagram.com/perceptionclothing
+                - generic [ref=e122]: "@"
+                - generic [ref=e123]: perceptionclothing
+            - generic [ref=e124]:
+              - paragraph [ref=e125]: Why they're a fit
+              - paragraph [ref=e126]: Perception Clothing's site is running on an unmodified basic Shopify theme with default fonts and no clear visual identity system tying pages together, which reads as unfinished next to the polished product imagery they post on Instagram. Their product quality and price point suggest a customer who expects a premium browsing experience, and right now the site is not delivering that, likely suppressing average order value and repeat purchase rate. A custom theme built around their existing visual language would immediately lift perceived brand value.
+            - generic [ref=e127]:
+              - paragraph [ref=e128]:
+                - generic [ref=e129]: ⚡
+                - text: Why now
+              - paragraph [ref=e130]: The founder has been posting more frequently and showing behind-the-scenes production content, which usually signals a new collection is coming and creates a natural window to pitch ahead of a launch.
+            - generic [ref=e131]:
+              - paragraph [ref=e132]: ⚠️ Note
+              - paragraph [ref=e133]: Founder may be handling everything solo and stretched too thin to commit time to a redesign project, which can slow projects significantly.
+            - generic [ref=e134]:
+              - button "View outreach" [ref=e136]:
+                - text: View outreach
+                - img [ref=e137]
+              - generic [ref=e139]: Really liked the behind-the-scenes content you posted recently, seeing the production process makes the pieces feel a lot more considered and premium. That story does not quite come through on the site yet though, and for a brand at your level that disconnect is worth fixing because it affects whether first-time visitors trust you enough to buy. We specialise in helping founder-led UK fashion brands build Shopify stores that actually reflect the quality of what they are making. Is a site refresh something on your radar this year?
+          - article [ref=e140] [cursor=pointer]:
+            - generic [ref=e142]:
+              - generic [ref=e144]:
+                - heading "Blacksmith Store" [level=3] [ref=e145]
+                - paragraph [ref=e146]: UK Workwear Streetwear
+                - paragraph [ref=e147]:
+                  - generic [ref=e148]: 📍
+                  - text: London, UK
+              - generic [ref=e149]:
+                - generic "Fit score 8/10" [ref=e150]: 8/10
+                - button "Deselect prospect" [pressed] [ref=e151]:
+                  - img [ref=e152]
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - generic [ref=e156]: 🌐
+                - generic [ref=e157]: Shopify
+              - generic [ref=e158]:
+                - generic [ref=e159]: 👥
+                - generic [ref=e160]: 12k-22k followers
+              - link "blacksmithstore.com" [ref=e161]:
+                - /url: https://www.blacksmithstore.com
+                - generic [ref=e162]: ↗
+                - generic [ref=e163]: blacksmithstore.com
+              - link "blacksmithstore" [ref=e164]:
+                - /url: https://instagram.com/blacksmithstore
+                - generic [ref=e165]: "@"
+                - generic [ref=e166]: blacksmithstore
+            - generic [ref=e167]:
+              - paragraph [ref=e168]: Why they're a fit
+              - paragraph [ref=e169]: Blacksmith Store has a distinctive workwear-influenced aesthetic that their Instagram communicates clearly, but the Shopify storefront uses a generic theme with limited editorial structure and no content hierarchy that guides a visitor toward purchase. The homepage lacks any brand storytelling and drops visitors straight into a product grid, which is a missed opportunity given how much of their Instagram audience is driven by the brand narrative rather than individual SKUs. Adding a proper above-the-fold story and improving the collection page layouts would directly improve conversion from their existing organic traffic.
+            - generic [ref=e170]:
+              - paragraph [ref=e171]:
+                - generic [ref=e172]: ⚡
+                - text: Why now
+              - paragraph [ref=e173]: The brand has been collaborating with other UK creatives recently, which grows their reach and brings in new visitors who need the site to do the work of converting cold traffic, making this a high-leverage moment to invest in the storefront.
+            - generic [ref=e174]:
+              - paragraph [ref=e175]: ⚠️ Note
+              - paragraph [ref=e176]: May have a freelance developer they already use for small updates, which could make a full redesign conversation feel unnecessary to them initially.
+            - generic [ref=e177]:
+              - button "View outreach" [ref=e179]:
+                - text: View outreach
+                - img [ref=e180]
+              - generic [ref=e182]: The collab content you have been putting out lately has been really strong, it is clear you are building something with a proper community around it. The challenge with collabs is they send a wave of new people to your site who do not know you yet, and right now the site has to work pretty hard to convert someone who is landing there cold. We help UK streetwear brands build Shopify experiences that turn that new traffic into buyers. Would love to share a couple of ideas specific to your brand if you are open to it?
+          - article [ref=e183] [cursor=pointer]:
+            - generic [ref=e185]:
+              - generic [ref=e187]:
+                - heading "Iuter" [level=3] [ref=e188]
+                - paragraph [ref=e189]: UK Streetwear Brand
+                - paragraph [ref=e190]:
+                  - generic [ref=e191]: 📍
+                  - text: London, UK
+              - generic [ref=e192]:
+                - generic "Fit score 7/10" [ref=e193]: 7/10
+                - button "Deselect prospect" [pressed] [ref=e194]:
+                  - img [ref=e195]
+            - generic [ref=e197]:
+              - generic [ref=e198]:
+                - generic [ref=e199]: 🌐
+                - generic [ref=e200]: Shopify
+              - generic [ref=e201]:
+                - generic [ref=e202]: 👥
+                - generic [ref=e203]: 8k-15k followers
+              - link "iuter.com" [ref=e204]:
+                - /url: https://www.iuter.com
+                - generic [ref=e205]: ↗
+                - generic [ref=e206]: iuter.com
+              - link "iuter" [ref=e207]:
+                - /url: https://instagram.com/iuter
+                - generic [ref=e208]: "@"
+                - generic [ref=e209]: iuter
+            - generic [ref=e210]:
+              - paragraph [ref=e211]: Why they're a fit
+              - paragraph [ref=e212]: Iuter's Shopify store uses a basic theme with inconsistent typography and product pages that lack the editorial feel their Instagram content delivers. The gap between their moody, curated social presence and a flat product grid is costing them conversion rate on mobile visitors. A brand with their aesthetic credibility should have a site that sells the lifestyle, not just the SKU.
+            - generic [ref=e213]:
+              - paragraph [ref=e214]:
+                - generic [ref=e215]: ⚡
+                - text: Why now
+              - paragraph [ref=e216]: Their recent Instagram content shows a consistent creative direction emerging, making this the right moment to translate that into a web experience before a competitor captures the same audience.
+            - generic [ref=e217]:
+              - paragraph [ref=e218]: ⚠️ Note
+              - paragraph [ref=e219]: Brand has European roots and may already have a design resource on the continent that handles web decisions.
+            - generic [ref=e220]:
+              - button "View outreach" [ref=e222]:
+                - text: View outreach
+                - img [ref=e223]
+              - generic [ref=e225]: Your recent lookbook posts have a really strong mood to them, the colour grading and styling is genuinely distinctive. The thing is, when someone taps through to the site from Instagram they land somewhere that does not quite match that energy, and that gap is probably costing you sales at the last step. We work with founder-led streetwear brands to close exactly that gap, a site that actually feels like the brand you have already built. Would it be useful to have a quick chat about what that could look like for you?
+          - article [ref=e226] [cursor=pointer]:
+            - generic [ref=e228]:
+              - generic [ref=e230]:
+                - heading "Supply & Demand" [level=3] [ref=e231]
+                - paragraph [ref=e232]: Independent Streetwear
+                - paragraph [ref=e233]:
+                  - generic [ref=e234]: 📍
+                  - text: Manchester, UK
+              - generic [ref=e235]:
+                - generic "Fit score 7/10" [ref=e236]: 7/10
+                - button "Deselect prospect" [pressed] [ref=e237]:
+                  - img [ref=e238]
+            - generic [ref=e240]:
+              - generic [ref=e241]:
+                - generic [ref=e242]: 🌐
+                - generic [ref=e243]: Shopify
+              - generic [ref=e244]:
+                - generic [ref=e245]: 👥
+                - generic [ref=e246]: 10k-20k followers
+              - link "supplyanddemandclothing.com" [ref=e247]:
+                - /url: https://www.supplyanddemandclothing.com
+                - generic [ref=e248]: ↗
+                - generic [ref=e249]: supplyanddemandclothing.com
+              - link "supplyanddemandclothing" [ref=e250]:
+                - /url: https://instagram.com/supplyanddemandclothing
+                - generic [ref=e251]: "@"
+                - generic [ref=e252]: supplyanddemandclothing
+            - generic [ref=e253]:
+              - paragraph [ref=e254]: Why they're a fit
+              - paragraph [ref=e255]: Supply and Demand's Shopify store relies on a stock Dawn-adjacent theme with no custom typography or brand colour system, which makes it visually indistinguishable from dozens of other UK streetwear labels. Their Instagram shows genuine community engagement and strong product photography that is being completely wasted on a homepage that opens with a static banner and a basic product grid. Fixing the above-the-fold experience alone would meaningfully lift click-through from their Meta traffic.
+            - generic [ref=e256]:
+              - paragraph [ref=e257]:
+                - generic [ref=e258]: ⚡
+                - text: Why now
+              - paragraph [ref=e259]: The brand appears to be pushing new seasonal drops more regularly on Instagram, signalling they are in a growth phase where a better site would compound every campaign they run.
+            - generic [ref=e260]:
+              - paragraph [ref=e261]: ⚠️ Note
+              - paragraph [ref=e262]: Smaller Manchester-based brands sometimes have tight margins and may push back on project investment without a clear ROI conversation upfront.
+            - generic [ref=e263]:
+              - button "View outreach" [ref=e265]:
+                - text: View outreach
+                - img [ref=e266]
+              - generic [ref=e268]: The content you put out around your recent drop was really well shot, the community response in the comments showed people are genuinely excited about what you are building. One thing I notice is that when that excitement sends someone to the site, the landing experience does not quite hold that energy, which means you are probably losing people at the exact moment they are most ready to buy. We help brands like yours make sure the site works as hard as the Instagram does. Have you been thinking about a refresh at all?
+        - generic [ref=e271]:
+          - paragraph [ref=e272]: 5 prospects selected
+          - button "Deselect all" [ref=e273] [cursor=pointer]
+          - button "Save to CLIENTR" [ref=e274] [cursor=pointer]:
+            - text: Save to CLIENTR
+            - img [ref=e275]
+  - alert [ref=e37]

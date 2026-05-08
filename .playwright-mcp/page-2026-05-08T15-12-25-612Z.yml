@@ -1,0 +1,120 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "CLIENTR home" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e7]:
+            - link "Leads" [ref=e8] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - generic [ref=e11]: "2"
+            - generic [ref=e12]: /
+            - generic [ref=e13]: "3"
+            - generic [ref=e14]: searches
+          - button "Upgrade" [ref=e15] [cursor=pointer]
+          - button "Sign out" [ref=e17] [cursor=pointer]
+    - main [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - heading "Leads" [level=1] [ref=e21]
+          - paragraph [ref=e22]: Every prospect, every conversation, in one place.
+        - link "New search" [ref=e23] [cursor=pointer]:
+          - /url: /search
+          - img [ref=e24]
+          - text: New search
+      - generic [ref=e25]:
+        - generic [ref=e26]: Your ICP
+        - paragraph [ref=e27]: Independent skincare brands in London with 5k-20k Instagram followers and a poor quality website
+        - link "Edit" [ref=e28] [cursor=pointer]:
+          - /url: /search
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - img [ref=e32]
+          - generic [ref=e37]: "2"
+          - generic [ref=e38]: Total Leads
+        - generic [ref=e39]:
+          - img [ref=e40]
+          - generic [ref=e43]: "1"
+          - generic [ref=e44]: Outreach Sent
+        - generic [ref=e45]:
+          - img [ref=e46]
+          - generic [ref=e48]: "0"
+          - generic [ref=e49]: Replied
+        - generic [ref=e50]:
+          - img [ref=e51]
+          - generic [ref=e53]: "0"
+          - generic [ref=e54]: Won
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - button "All2" [ref=e57] [cursor=pointer]
+          - button "New1" [ref=e147] [cursor=pointer]
+          - button "Outreach Sent1" [ref=e148] [cursor=pointer]
+          - button "Followed Up0" [ref=e60] [cursor=pointer]
+          - button "Replied0" [ref=e61] [cursor=pointer]
+          - button "Won0" [ref=e62] [cursor=pointer]
+          - button "Lost0" [ref=e63] [cursor=pointer]
+        - generic [ref=e64]:
+          - img
+          - textbox "Search leads" [ref=e65]
+      - generic [ref=e66]:
+        - row "Company Score Status Industry Notes Added" [ref=e67]:
+          - generic [ref=e68]: Company
+          - generic [ref=e69]: Score
+          - generic [ref=e70]: Status
+          - generic [ref=e71]: Industry
+          - generic [ref=e72]: Notes
+          - generic [ref=e73]: Added
+        - row "B Bushcraft and Bloom 1/10 New Natural Skincare — 9m ago Lead actions" [ref=e181] [cursor=pointer]:
+          - generic [ref=e94]:
+            - generic [ref=e95]: B
+            - generic [ref=e97]: Bushcraft and Bloom
+          - generic "Fit score 1/10" [ref=e99]: 1/10
+          - generic [ref=e101]: New
+          - generic [ref=e103]: Natural Skincare
+          - generic [ref=e104]: —
+          - generic [ref=e105]: 9m ago
+          - button "Lead actions" [ref=e107]:
+            - img [ref=e108]
+        - row "Pai Skincare www.paiskincare.com 2/10 Outreach Sent Skincare — 9m ago Lead actions" [ref=e182] [cursor=pointer]:
+          - generic [ref=e76]:
+            - generic [ref=e77]: Pai Skincare
+            - link "www.paiskincare.com" [ref=e78]:
+              - /url: https://www.paiskincare.com
+          - generic "Fit score 2/10" [ref=e80]: 2/10
+          - generic [ref=e82]: Outreach Sent
+          - generic [ref=e84]: Skincare
+          - generic [ref=e85]: —
+          - generic [ref=e86]: 9m ago
+          - button "Lead actions" [ref=e88]:
+            - img [ref=e89]
+      - dialog "Outreach for Pai Skincare" [ref=e152]:
+        - generic [ref=e153]:
+          - generic [ref=e155]:
+            - heading "Pai Skincare" [level=2] [ref=e156]
+            - generic [ref=e157]:
+              - generic [ref=e158]: Outreach Sent
+              - generic "Fit score 2/10" [ref=e159]: 2/10
+          - button "Close panel" [ref=e160] [cursor=pointer]:
+            - img [ref=e161]
+        - generic [ref=e164]:
+          - generic [ref=e165]: Outreach
+          - generic [ref=e166]:
+            - button "Copy" [ref=e168] [cursor=pointer]:
+              - img [ref=e169]
+              - text: Copy
+            - generic [ref=e172]: Hi Pai team, I have been admiring your packaging redesign and how clearly you articulate the science behind your formulas. I work with skincare brands on their site experience and noticed your product page imagery could be more consistent across the range. Would you be open to a 15 minute chat about it?
+          - generic [ref=e173]:
+            - button "Already sent" [disabled] [ref=e174]
+            - button "Generate follow-up" [ref=e183] [cursor=pointer]
+          - generic [ref=e184]:
+            - generic [ref=e185]: Follow-up
+            - generic [ref=e186]:
+              - button "Copy" [ref=e188] [cursor=pointer]:
+                - img [ref=e189]
+                - text: Copy
+              - generic [ref=e192]: Just wanted to bump this up in case it got buried — I reached out a few days ago about your product page imagery and how a bit more consistency could tie your beautiful new packaging into the online experience. I know inboxes get hectic, so no pressure at all. Would a quick call still be worth exploring?
+  - alert [ref=e139]

@@ -1,0 +1,32 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e19]
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - link "CLIENTR home" [ref=e23] [cursor=pointer]:
+        - /url: /
+        - text: CLIENTR
+      - generic [ref=e24]:
+        - heading "Create your account" [level=1] [ref=e25]
+        - paragraph [ref=e26]: Three free searches to start. No card required.
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - generic [ref=e29]: Email
+            - textbox "Email" [ref=e30]:
+              - /placeholder: you@studio.com
+              - text: smoke-test-1762610000@clientrtest.dev
+          - generic [ref=e31]:
+            - generic [ref=e32]: Password
+            - textbox "Password" [ref=e33]:
+              - /placeholder: At least 8 characters
+              - text: SmokeTest1234!
+          - generic [ref=e34]:
+            - generic [ref=e35]: Confirm password
+            - textbox "Confirm password" [ref=e36]:
+              - /placeholder: Repeat your password
+              - text: SmokeTest1234!
+          - button "Create account" [ref=e37] [cursor=pointer]
+          - generic [ref=e40]: Database error saving new user
+      - paragraph [ref=e38]:
+        - text: Already have an account?
+        - link "Sign in" [ref=e39] [cursor=pointer]:
+          - /url: /login

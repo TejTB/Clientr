@@ -1,0 +1,286 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "CLIENTR home" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e7]:
+            - link "Leads" [ref=e8] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - generic [ref=e11]: "2"
+            - generic [ref=e12]: /
+            - generic [ref=e13]: "3"
+            - generic [ref=e14]: searches
+          - button "Upgrade" [ref=e15] [cursor=pointer]
+          - button "Sign out" [ref=e17] [cursor=pointer]
+    - main [ref=e18]:
+      - link "Back to leads" [ref=e19] [cursor=pointer]:
+        - /url: /
+        - img [ref=e20]
+        - text: Back to leads
+      - paragraph [ref=e23]: Find new leads
+      - heading "Find new leads." [level=1] [ref=e24]
+      - paragraph [ref=e25]: Describe your ideal client. The more specific, the better the prospects.
+      - generic [ref=e26]:
+        - generic [ref=e48]:
+          - heading "6 prospects found" [level=2] [ref=e49]
+          - button "Deselect all" [ref=e50] [cursor=pointer]
+        - generic [ref=e51]:
+          - article [ref=e52] [cursor=pointer]:
+            - generic [ref=e54]:
+              - generic [ref=e56]:
+                - heading "Plenaire" [level=3] [ref=e57]
+                - paragraph [ref=e58]: Independent Skincare
+              - generic [ref=e59]:
+                - generic "Fit score 7/10" [ref=e60]: 7/10
+                - button "Deselect prospect" [pressed] [ref=e61]:
+                  - img [ref=e62]
+            - generic [ref=e64]:
+              - generic [ref=e65]:
+                - img [ref=e67]
+                - generic [ref=e70]: London, UK
+              - generic [ref=e71]:
+                - img [ref=e73]
+                - generic [ref=e78]: 8k-12k followers
+              - generic [ref=e79]:
+                - img [ref=e81]
+                - generic [ref=e84]: Shopify
+              - link "plenaire.co" [ref=e85]:
+                - /url: https://www.plenaire.co
+                - img [ref=e86]
+                - generic [ref=e90]: plenaire.co
+              - link "plenaire" [ref=e91]:
+                - /url: https://instagram.com/plenaire
+                - img [ref=e92]
+                - generic [ref=e95]: plenaire
+            - generic [ref=e96]:
+              - paragraph [ref=e97]: Why they're a fit
+              - paragraph [ref=e98]: Plenaire is a small founder-led London skincare brand with a minimal product range and a website that feels underdeveloped relative to their brand ambition. Their Instagram presence shows strong visual identity but the website lacks storytelling, conversion structure and mobile optimisation. They are at a growth stage where the gap between their social presence and website quality is costing them sales.
+            - generic [ref=e99]:
+              - paragraph [ref=e100]: Why now
+              - paragraph [ref=e101]: They have been pushing new product content on Instagram consistently but their website has not been updated to match, suggesting they are investing in growth without the infrastructure to convert it.
+            - generic [ref=e102]:
+              - img [ref=e103]
+              - generic [ref=e105]:
+                - paragraph [ref=e106]: Note
+                - paragraph [ref=e107]: Brand has received some press coverage which may mean they have a part-time designer already engaged.
+            - button "View outreach copy" [ref=e109]:
+              - generic [ref=e110]:
+                - text: View outreach copy
+                - img [ref=e111]
+          - article [ref=e113] [cursor=pointer]:
+            - generic [ref=e115]:
+              - generic [ref=e117]:
+                - heading "Botnia Skincare London" [level=3] [ref=e118]
+                - paragraph [ref=e119]: Independent Skincare
+              - generic [ref=e120]:
+                - generic "Fit score 7/10" [ref=e121]: 7/10
+                - button "Deselect prospect" [pressed] [ref=e122]:
+                  - img [ref=e123]
+            - generic [ref=e125]:
+              - generic [ref=e126]:
+                - img [ref=e128]
+                - generic [ref=e131]: London, UK
+              - generic [ref=e132]:
+                - img [ref=e134]
+                - generic [ref=e139]: 6k-10k followers
+              - generic [ref=e140]:
+                - img [ref=e142]
+                - generic [ref=e145]: WordPress
+              - link "facethefuture.co.uk" [ref=e146]:
+                - /url: https://www.facethefuture.co.uk
+                - img [ref=e147]
+                - generic [ref=e151]: facethefuture.co.uk
+              - link "facethefutureskincare" [ref=e152]:
+                - /url: https://instagram.com/facethefutureskincare
+                - img [ref=e153]
+                - generic [ref=e156]: facethefutureskincare
+            - generic [ref=e157]:
+              - paragraph [ref=e158]: Why they're a fit
+              - paragraph [ref=e159]: Face the Future is an independent London-based skincare retailer and brand with a WordPress site that is cluttered, slow and difficult to navigate on mobile. The brand has a loyal Instagram following built on educational content but the website experience does not reflect that expertise. They are founder-operated with no obvious in-house web team.
+            - generic [ref=e160]:
+              - paragraph [ref=e161]: Why now
+              - paragraph [ref=e162]: Recent posts show they are launching new product lines and pushing traffic to the site via Stories, making the weak conversion experience an urgent and visible problem right now.
+            - generic [ref=e163]:
+              - img [ref=e164]
+              - generic [ref=e166]:
+                - paragraph [ref=e167]: Note
+                - paragraph [ref=e168]: Business is more of a multi-brand retailer than a single founder-led brand, so priorities may be split.
+            - button "View outreach copy" [ref=e170]:
+              - generic [ref=e171]:
+                - text: View outreach copy
+                - img [ref=e172]
+          - article [ref=e174] [cursor=pointer]:
+            - generic [ref=e176]:
+              - generic [ref=e178]:
+                - heading "Roz Purcell Natural Born Feeder Skincare" [level=3] [ref=e179]
+                - paragraph [ref=e180]: Independent Skincare
+              - generic [ref=e181]:
+                - generic "Fit score 8/10" [ref=e182]: 8/10
+                - button "Deselect prospect" [pressed] [ref=e183]:
+                  - img [ref=e184]
+            - generic [ref=e186]:
+              - generic [ref=e187]:
+                - img [ref=e189]
+                - generic [ref=e192]: London, UK
+              - generic [ref=e193]:
+                - img [ref=e195]
+                - generic [ref=e200]: 5k-9k followers
+              - generic [ref=e201]:
+                - img [ref=e203]
+                - generic [ref=e206]: Wix
+              - link "saltedbeauty.co.uk" [ref=e207]:
+                - /url: https://www.saltedbeauty.co.uk
+                - img [ref=e208]
+                - generic [ref=e212]: saltedbeauty.co.uk
+              - link "saltedbeautyuk" [ref=e213]:
+                - /url: https://instagram.com/saltedbeautyuk
+                - img [ref=e214]
+                - generic [ref=e217]: saltedbeautyuk
+            - generic [ref=e218]:
+              - paragraph [ref=e219]: Why they're a fit
+              - paragraph [ref=e220]: Salted Beauty is a small independent London skincare brand with a Wix-built website that shows classic founder-DIY signs including inconsistent fonts, low-quality product photography presentation and no clear conversion path. Their Instagram content is warm and personal which creates good community but the website does not carry that trust through. They are exactly the kind of micro-brand that outgrows a DIY site before they realise it.
+            - generic [ref=e221]:
+              - paragraph [ref=e222]: Why now
+              - paragraph [ref=e223]: The account has been posting more frequently in recent weeks with product-focused content, signalling a push for sales that a weak website will undermine.
+            - generic [ref=e224]:
+              - img [ref=e225]
+              - generic [ref=e227]:
+                - paragraph [ref=e228]: Note
+                - paragraph [ref=e229]: Wix platform may require a full rebuild rather than improvements, which could be a harder sell initially.
+            - button "View outreach copy" [ref=e231]:
+              - generic [ref=e232]:
+                - text: View outreach copy
+                - img [ref=e233]
+          - article [ref=e235] [cursor=pointer]:
+            - generic [ref=e237]:
+              - generic [ref=e239]:
+                - heading "Amarya Skincare" [level=3] [ref=e240]
+                - paragraph [ref=e241]: Independent Skincare
+              - generic [ref=e242]:
+                - generic "Fit score 8/10" [ref=e243]: 8/10
+                - button "Deselect prospect" [pressed] [ref=e244]:
+                  - img [ref=e245]
+            - generic [ref=e247]:
+              - generic [ref=e248]:
+                - img [ref=e250]
+                - generic [ref=e253]: London, UK
+              - generic [ref=e254]:
+                - img [ref=e256]
+                - generic [ref=e261]: 5k-8k followers
+              - generic [ref=e262]:
+                - img [ref=e264]
+                - generic [ref=e267]: Shopify
+              - link "amaryaskincare.com" [ref=e268]:
+                - /url: https://www.amaryaskincare.com
+                - img [ref=e269]
+                - generic [ref=e273]: amaryaskincare.com
+              - link "amaryaskincare" [ref=e274]:
+                - /url: https://instagram.com/amaryaskincare
+                - img [ref=e275]
+                - generic [ref=e278]: amaryaskincare
+            - generic [ref=e279]:
+              - paragraph [ref=e280]: Why they're a fit
+              - paragraph [ref=e281]: Amarya is a small London-based independent skincare brand with a Shopify site that lacks brand narrative, has thin product descriptions and poor mobile layout. The founder is active on Instagram with content that tells a personal story about the brand origins but none of that story makes it to the website. This disconnect is a clear signal that the site was set up quickly to get products live rather than built to convert.
+            - generic [ref=e282]:
+              - paragraph [ref=e283]: Why now
+              - paragraph [ref=e284]: The brand appears to be preparing for a gifting season push based on recent Instagram activity, which makes fixing the website a time-sensitive opportunity for them.
+            - generic [ref=e285]:
+              - img [ref=e286]
+              - generic [ref=e288]:
+                - paragraph [ref=e289]: Note
+                - paragraph [ref=e290]: Small product range may mean limited budget appetite for a full redesign right now.
+            - button "View outreach copy" [ref=e292]:
+              - generic [ref=e293]:
+                - text: View outreach copy
+                - img [ref=e294]
+          - article [ref=e296] [cursor=pointer]:
+            - generic [ref=e298]:
+              - generic [ref=e300]:
+                - heading "Aya Botanicals" [level=3] [ref=e301]
+                - paragraph [ref=e302]: Independent Skincare
+              - generic [ref=e303]:
+                - generic "Fit score 8/10" [ref=e304]: 8/10
+                - button "Deselect prospect" [pressed] [ref=e305]:
+                  - img [ref=e306]
+            - generic [ref=e308]:
+              - generic [ref=e309]:
+                - img [ref=e311]
+                - generic [ref=e314]: London, UK
+              - generic [ref=e315]:
+                - img [ref=e317]
+                - generic [ref=e322]: 6k-11k followers
+              - generic [ref=e323]:
+                - img [ref=e325]
+                - generic [ref=e328]: Squarespace
+              - link "ayabotanicals.co.uk" [ref=e329]:
+                - /url: https://www.ayabotanicals.co.uk
+                - img [ref=e330]
+                - generic [ref=e334]: ayabotanicals.co.uk
+              - link "ayabotanicals" [ref=e335]:
+                - /url: https://instagram.com/ayabotanicals
+                - img [ref=e336]
+                - generic [ref=e339]: ayabotanicals
+            - generic [ref=e340]:
+              - paragraph [ref=e341]: Why they're a fit
+              - paragraph [ref=e342]: Aya Botanicals is a founder-led London skincare brand focused on natural and botanical formulations with a Squarespace site that is generic, template-heavy and missing any of the brand warmth visible on their Instagram. The product pages are sparse and the checkout flow is not optimised for mobile users. Their community engagement on Instagram shows there is real demand that the website is not set up to capture.
+            - generic [ref=e343]:
+              - paragraph [ref=e344]: Why now
+              - paragraph [ref=e345]: They have recently been tagging stockists and pushing DTC sales simultaneously on Instagram, suggesting they are actively trying to grow revenue and would be receptive to improving their primary sales channel.
+            - generic [ref=e346]:
+              - img [ref=e347]
+              - generic [ref=e349]:
+                - paragraph [ref=e350]: Note
+                - paragraph [ref=e351]: Squarespace template may be something the founder is attached to, requiring a careful conversation about rebuilding.
+            - button "View outreach copy" [ref=e353]:
+              - generic [ref=e354]:
+                - text: View outreach copy
+                - img [ref=e355]
+          - article [ref=e357] [cursor=pointer]:
+            - generic [ref=e359]:
+              - generic [ref=e361]:
+                - heading "Ode Apothecary" [level=3] [ref=e362]
+                - paragraph [ref=e363]: Independent Skincare
+              - generic [ref=e364]:
+                - generic "Fit score 9/10" [ref=e365]: 9/10
+                - button "Deselect prospect" [pressed] [ref=e366]:
+                  - img [ref=e367]
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - img [ref=e372]
+                - generic [ref=e375]: London, UK
+              - generic [ref=e376]:
+                - img [ref=e378]
+                - generic [ref=e383]: 7k-13k followers
+              - generic [ref=e384]:
+                - img [ref=e386]
+                - generic [ref=e389]: Wix
+              - link "odeapothecary.co.uk" [ref=e390]:
+                - /url: https://www.odeapothecary.co.uk
+                - img [ref=e391]
+                - generic [ref=e395]: odeapothecary.co.uk
+              - link "odeapothecary" [ref=e396]:
+                - /url: https://instagram.com/odeapothecary
+                - img [ref=e397]
+                - generic [ref=e400]: odeapothecary
+            - generic [ref=e401]:
+              - paragraph [ref=e402]: Why they're a fit
+              - paragraph [ref=e403]: Ode Apothecary is a small independent London skincare and wellness brand with a Wix site that shows clear DIY construction including misaligned sections, slow load times and product images that are not optimised. Their Instagram following is engaged and growing but the website experience creates friction that will cost them at the point of purchase. The brand has real potential but the online presence is holding it back.
+            - generic [ref=e404]:
+              - paragraph [ref=e405]: Why now
+              - paragraph [ref=e406]: The founder has recently been posting about new product launches and seasonal collections, meaning traffic to the site is actively increasing at a moment when the weak experience will have the most impact on lost sales.
+            - button "View outreach copy" [ref=e408]:
+              - generic [ref=e409]:
+                - text: View outreach copy
+                - img [ref=e410]
+        - generic [ref=e414]:
+          - paragraph [ref=e415]: 6 prospects selected
+          - button "Deselect all" [ref=e416] [cursor=pointer]
+          - button "Save to CLIENTR" [ref=e417] [cursor=pointer]:
+            - text: Save to CLIENTR
+            - img [ref=e418]
+  - alert [ref=e37]

@@ -1,0 +1,94 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e22]
+  - generic [ref=e23]:
+    - banner [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - link "CLIENTR home" [ref=e27] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e28]:
+            - link "Leads" [ref=e29] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - generic [ref=e32]: "2"
+            - generic [ref=e33]: /
+            - generic [ref=e34]: "3"
+            - generic [ref=e35]: searches
+          - button "Upgrade" [ref=e36] [cursor=pointer]
+          - button "Sign out" [ref=e38] [cursor=pointer]
+    - main [ref=e139]:
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - heading "Leads" [level=1] [ref=e142]
+          - paragraph [ref=e143]: Every prospect, every conversation, in one place.
+        - link "New search" [ref=e144] [cursor=pointer]:
+          - /url: /search
+          - img [ref=e145]
+          - text: New search
+      - generic [ref=e146]:
+        - generic [ref=e147]: Your ICP
+        - paragraph [ref=e148]: Independent skincare brands in London with 5k-20k Instagram followers and a poor quality website
+        - link "Edit" [ref=e149] [cursor=pointer]:
+          - /url: /search
+      - generic [ref=e151]:
+        - generic [ref=e152]:
+          - img [ref=e153]
+          - generic [ref=e158]: "2"
+          - generic [ref=e159]: Total Leads
+        - generic [ref=e160]:
+          - img [ref=e161]
+          - generic [ref=e164]: "0"
+          - generic [ref=e165]: Outreach Sent
+        - generic [ref=e166]:
+          - img [ref=e167]
+          - generic [ref=e169]: "0"
+          - generic [ref=e170]: Replied
+        - generic [ref=e171]:
+          - img [ref=e172]
+          - generic [ref=e174]: "0"
+          - generic [ref=e175]: Won
+      - generic [ref=e176]:
+        - generic [ref=e177]:
+          - button "All2" [ref=e178] [cursor=pointer]
+          - button "New2" [ref=e179] [cursor=pointer]
+          - button "Outreach Sent0" [ref=e180] [cursor=pointer]
+          - button "Followed Up0" [ref=e181] [cursor=pointer]
+          - button "Replied0" [ref=e182] [cursor=pointer]
+          - button "Won0" [ref=e183] [cursor=pointer]
+          - button "Lost0" [ref=e184] [cursor=pointer]
+        - generic [ref=e185]:
+          - img
+          - textbox "Search leads" [ref=e186]
+      - generic [ref=e187]:
+        - row "Company Score Status Industry Notes Added" [ref=e188]:
+          - generic [ref=e189]: Company
+          - generic [ref=e190]: Score
+          - generic [ref=e191]: Status
+          - generic [ref=e192]: Industry
+          - generic [ref=e193]: Notes
+          - generic [ref=e194]: Added
+        - row "Pai Skincare www.paiskincare.com 2/10 New Skincare — just now Lead actions" [ref=e195] [cursor=pointer]:
+          - generic [ref=e197]:
+            - generic [ref=e198]: Pai Skincare
+            - link "www.paiskincare.com" [ref=e199]:
+              - /url: https://www.paiskincare.com
+          - generic "Fit score 2/10" [ref=e201]: 2/10
+          - generic [ref=e203]: New
+          - generic [ref=e205]: Skincare
+          - generic [ref=e206]: —
+          - generic [ref=e207]: just now
+          - button "Lead actions" [ref=e209]:
+            - img [ref=e210]
+        - row "B Bushcraft and Bloom 1/10 New Natural Skincare — just now Lead actions" [ref=e214] [cursor=pointer]:
+          - generic [ref=e215]:
+            - generic [ref=e216]: B
+            - generic [ref=e218]: Bushcraft and Bloom
+          - generic "Fit score 1/10" [ref=e220]: 1/10
+          - generic [ref=e222]: New
+          - generic [ref=e224]: Natural Skincare
+          - generic [ref=e225]: —
+          - generic [ref=e226]: just now
+          - button "Lead actions" [ref=e228]:
+            - img [ref=e229]

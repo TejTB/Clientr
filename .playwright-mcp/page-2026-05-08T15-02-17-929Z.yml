@@ -1,0 +1,38 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e22]
+  - generic [ref=e23]:
+    - banner [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - link "CLIENTR home" [ref=e27] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e28]:
+            - link "Leads" [ref=e29] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - generic [ref=e32]: "3"
+            - generic [ref=e33]: /
+            - generic [ref=e34]: "3"
+            - generic [ref=e35]: searches
+          - button "Upgrade" [ref=e36] [cursor=pointer]
+          - button "Sign out" [ref=e38] [cursor=pointer]
+    - main [ref=e39]:
+      - link "Back to leads" [ref=e40] [cursor=pointer]:
+        - /url: /
+        - img [ref=e41]
+        - text: Back to leads
+      - paragraph [ref=e44]: Find new leads
+      - heading "Find new leads." [level=1] [ref=e45]
+      - paragraph [ref=e46]: Describe your ideal client. The more specific, the better the prospects.
+      - generic [ref=e47]: Welcome to CLIENTR. Start with your first search below.
+      - generic [ref=e59]:
+        - generic [ref=e60]: CLIENTR
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - generic [ref=e63]: Searching
+            - generic [ref=e64]: 27%
+          - progressbar [ref=e65]
+        - paragraph [ref=e67]:
+          - generic [ref=e68]: Analysing Instagram presence and follower counts...

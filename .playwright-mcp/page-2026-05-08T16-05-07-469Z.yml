@@ -1,0 +1,256 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "CLIENTR home" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - text: CLIENTR
+          - navigation [ref=e7]:
+            - link "Leads" [ref=e8] [cursor=pointer]:
+              - /url: /
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - generic [ref=e11]: "3"
+            - generic [ref=e12]: /
+            - generic [ref=e13]: "3"
+            - generic [ref=e14]: searches
+          - button "Upgrade" [ref=e15] [cursor=pointer]
+          - button "Sign out" [ref=e17] [cursor=pointer]
+    - main [ref=e18]:
+      - link "Back to leads" [ref=e19] [cursor=pointer]:
+        - /url: /
+        - img [ref=e20]
+        - text: Back to leads
+      - paragraph [ref=e23]: Find new leads
+      - heading "Find new leads." [level=1] [ref=e24]
+      - paragraph [ref=e25]: Describe your ideal client. The more specific, the better the prospects.
+      - generic [ref=e26]:
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - heading "5 prospects found" [level=2] [ref=e50]
+            - paragraph [ref=e51]: Sorted by fit score. Select the ones you want to save.
+          - button "Deselect all" [ref=e52] [cursor=pointer]
+        - generic [ref=e53]:
+          - article [ref=e54] [cursor=pointer]:
+            - generic [ref=e56]:
+              - generic [ref=e58]:
+                - heading "Fillipa + K London" [level=3] [ref=e59]
+                - paragraph [ref=e60]: Sustainable womenswear
+                - paragraph [ref=e61]:
+                  - generic [ref=e62]: 📍
+                  - text: London, UK
+              - generic [ref=e63]:
+                - generic "Fit score 8/10" [ref=e64]: 8/10
+                - button "Deselect prospect" [pressed] [ref=e65]:
+                  - img [ref=e66]
+            - generic [ref=e68]:
+              - generic [ref=e69]:
+                - generic [ref=e70]: 🌐
+                - generic [ref=e71]: Shopify
+              - generic [ref=e72]:
+                - generic [ref=e73]: 👥
+                - generic [ref=e74]: 11k-20k followers
+              - link "filippaklondon.com" [ref=e75]:
+                - /url: https://www.filippaklondon.com
+                - generic [ref=e76]: ↗
+                - generic [ref=e77]: filippaklondon.com
+              - link "filippaklondon" [ref=e78]:
+                - /url: https://instagram.com/filippaklondon
+                - generic [ref=e79]: "@"
+                - generic [ref=e80]: filippaklondon
+            - generic [ref=e81]:
+              - paragraph [ref=e82]: Why they're a fit
+              - paragraph [ref=e83]: This London-based sustainable womenswear label has developed a loyal following through consistent ethical messaging and strong visual content, but the Shopify store relies on a generic theme with overcrowded homepage sections and a checkout flow that has not been optimised for their higher price point items. Sustainable fashion buyers expect a brand environment that reflects the care put into the product, and a cluttered or generic site actively undermines the premium positioning they are trying to hold. Without a structured Meta retargeting setup they are also almost certainly losing warm visitors who had genuine purchase intent.
+            - generic [ref=e84]:
+              - paragraph [ref=e85]:
+                - generic [ref=e86]: ⚡
+                - text: Why now
+              - paragraph [ref=e87]: Growing conversation around conscious fashion in Q1 gifting and spring wardrobe updates makes this a high-intent traffic window worth capturing with paid support.
+            - generic [ref=e88]:
+              - paragraph [ref=e89]: ⚠️ Note
+              - paragraph [ref=e90]: Sustainable fashion brands sometimes have tighter margins which could affect willingness to invest in paid ads alongside a redesign project.
+            - generic [ref=e91]:
+              - button "View outreach" [ref=e93]:
+                - text: View outreach
+                - img [ref=e94]
+              - generic [ref=e96]: The way you communicate the story behind each piece on Instagram is genuinely compelling, it is clear there is real thought going into the sourcing and the messaging. The site feels like it was set up to get things live quickly rather than to tell that same story, and for a brand at your price point that difference really matters to a first-time visitor. I specialise in helping founder-led labels like yours get the site and Meta ads working in the same direction. Would you be open to a conversation about what that might look like?
+          - article [ref=e97] [cursor=pointer]:
+            - generic [ref=e99]:
+              - generic [ref=e101]:
+                - heading "Hera London" [level=3] [ref=e102]
+                - paragraph [ref=e103]: Contemporary womenswear
+                - paragraph [ref=e104]:
+                  - generic [ref=e105]: 📍
+                  - text: London, UK
+              - generic [ref=e106]:
+                - generic "Fit score 8/10" [ref=e107]: 8/10
+                - button "Deselect prospect" [pressed] [ref=e108]:
+                  - img [ref=e109]
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - generic [ref=e113]: 🌐
+                - generic [ref=e114]: Shopify
+              - generic [ref=e115]:
+                - generic [ref=e116]: 👥
+                - generic [ref=e117]: 15k-28k followers
+              - link "heralondonfashion.com" [ref=e118]:
+                - /url: https://www.heralondonfashion.com
+                - generic [ref=e119]: ↗
+                - generic [ref=e120]: heralondonfashion.com
+              - link "heralondonfashion" [ref=e121]:
+                - /url: https://instagram.com/heralondonfashion
+                - generic [ref=e122]: "@"
+                - generic [ref=e123]: heralondonfashion
+            - generic [ref=e124]:
+              - paragraph [ref=e125]: Why they're a fit
+              - paragraph [ref=e126]: Hera London has cultivated a strong Instagram presence with polished editorial content and a clear aesthetic direction but their Shopify store uses a standard Dawn-adjacent theme with minimal customisation, generic navigation labels and product pages that do not leverage their strong imagery effectively. At their follower count and apparent volume they should be generating significantly more from paid and organic traffic than a default theme setup allows. The lack of any visible brand system on the site creates a trust gap that is especially costly at the consideration stage for new customers.
+            - generic [ref=e127]:
+              - paragraph [ref=e128]:
+                - generic [ref=e129]: ⚡
+                - text: Why now
+              - paragraph [ref=e130]: Their Instagram growth appears to have accelerated recently with stronger engagement on new season pieces, which is the clearest signal that paid traffic now has an audience warm enough to convert.
+            - generic [ref=e131]:
+              - paragraph [ref=e132]: ⚠️ Note
+              - paragraph [ref=e133]: At the higher end of the follower range there is a small chance they already have a freelancer or small agency on retainer that is not publicly visible.
+            - generic [ref=e134]:
+              - button "View outreach" [ref=e136]:
+                - text: View outreach
+                - img [ref=e137]
+              - generic [ref=e139]: Your editorial content has got noticeably stronger this season, the styling and lighting on the recent lookbook posts especially. There is a real gap though between how good that content looks and what someone experiences when they land on the site, and that gap tends to show up in your conversion numbers more than anywhere else. I help womenswear brands on Shopify build sites and Meta ad setups that actually match the quality of the brand. Is improving that side of things something on your radar for this year?
+          - article [ref=e140] [cursor=pointer]:
+            - generic [ref=e142]:
+              - generic [ref=e144]:
+                - heading "Kestin" [level=3] [ref=e145]
+                - paragraph [ref=e146]: Scottish menswear workwear
+                - paragraph [ref=e147]:
+                  - generic [ref=e148]: 📍
+                  - text: Edinburgh, UK
+              - generic [ref=e149]:
+                - generic "Fit score 8/10" [ref=e150]: 8/10
+                - button "Deselect prospect" [pressed] [ref=e151]:
+                  - img [ref=e152]
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - generic [ref=e156]: 🌐
+                - generic [ref=e157]: Shopify
+              - generic [ref=e158]:
+                - generic [ref=e159]: 👥
+                - generic [ref=e160]: 13k-22k followers
+              - link "kestinhare.com" [ref=e161]:
+                - /url: https://www.kestinhare.com
+                - generic [ref=e162]: ↗
+                - generic [ref=e163]: kestinhare.com
+              - link "kestinhare" [ref=e164]:
+                - /url: https://instagram.com/kestinhare
+                - generic [ref=e165]: "@"
+                - generic [ref=e166]: kestinhare
+            - generic [ref=e167]:
+              - paragraph [ref=e168]: Why they're a fit
+              - paragraph [ref=e169]: Kestin is a founder-led Scottish menswear brand with a distinctive utilitarian aesthetic and a genuinely engaged Instagram audience, but the Shopify store uses a clean but uncustomised theme that does not communicate the craft and heritage behind the garments in any meaningful way. Product pages are functional rather than persuasive, with minimal storytelling and no clear upsell or cross-sell logic to increase AOV on what are considered-purchase price points. For a brand with this level of product quality and a warm international audience, the site is underworking considerably.
+            - generic [ref=e170]:
+              - paragraph [ref=e171]:
+                - generic [ref=e172]: ⚡
+                - text: Why now
+              - paragraph [ref=e173]: A new season jacket release is generating strong organic engagement right now, which is exactly the moment to have a paid amplification structure ready to capture that intent.
+            - generic [ref=e174]:
+              - paragraph [ref=e175]: ⚠️ Note
+              - paragraph [ref=e176]: Kestin has a considered, design-literate founder who may have strong opinions on creative direction, which is manageable but worth noting in the pitch approach.
+            - generic [ref=e177]:
+              - button "View outreach" [ref=e179]:
+                - text: View outreach
+                - img [ref=e180]
+              - generic [ref=e182]: The new jacket content has been getting a great response and it is easy to see why, the construction details you show really communicate what makes the pieces worth the price. When someone lands on the product page from that though, the experience does not quite do the same job of making the case for the garment. I work with founder-led menswear brands on Shopify to close that gap and build Meta campaigns that reflect the actual quality of the product. Would it be worth a quick conversation about the upcoming season?
+          - article [ref=e183] [cursor=pointer]:
+            - generic [ref=e185]:
+              - generic [ref=e187]:
+                - heading "Percy Earl" [level=3] [ref=e188]
+                - paragraph [ref=e189]: Premium menswear basics
+                - paragraph [ref=e190]:
+                  - generic [ref=e191]: 📍
+                  - text: London, UK
+              - generic [ref=e192]:
+                - generic "Fit score 7/10" [ref=e193]: 7/10
+                - button "Deselect prospect" [pressed] [ref=e194]:
+                  - img [ref=e195]
+            - generic [ref=e197]:
+              - generic [ref=e198]:
+                - generic [ref=e199]: 🌐
+                - generic [ref=e200]: Shopify
+              - generic [ref=e201]:
+                - generic [ref=e202]: 👥
+                - generic [ref=e203]: 9k-14k followers
+              - link "percyearl.com" [ref=e204]:
+                - /url: https://www.percyearl.com
+                - generic [ref=e205]: ↗
+                - generic [ref=e206]: percyearl.com
+              - link "percyearl" [ref=e207]:
+                - /url: https://instagram.com/percyearl
+                - generic [ref=e208]: "@"
+                - generic [ref=e209]: percyearl
+            - generic [ref=e210]:
+              - paragraph [ref=e211]: Why they're a fit
+              - paragraph [ref=e212]: Percy Earl has built a genuine following around elevated everyday menswear but their Shopify storefront uses a near-default theme with minimal typography hierarchy and product pages that bury the quality of the garments. The brand aesthetic on Instagram is clean and considered, which makes the disconnect with the website immediately obvious to any visitor arriving from a link in bio. That gap between social presentation and site experience is almost certainly suppressing conversion from their engaged audience.
+            - generic [ref=e213]:
+              - paragraph [ref=e214]:
+                - generic [ref=e215]: ⚡
+                - text: Why now
+              - paragraph [ref=e216]: They appear to be pushing into a new seasonal drop cycle which is exactly the moment a sharper site and paid traffic strategy would compound their organic momentum.
+            - generic [ref=e217]:
+              - paragraph [ref=e218]: ⚠️ Note
+              - paragraph [ref=e219]: Relatively small product range could mean AOV is not yet high enough to justify significant ad spend, which may limit project scope.
+            - generic [ref=e220]:
+              - button "View outreach" [ref=e222]:
+                - text: View outreach
+                - img [ref=e223]
+              - generic [ref=e225]: Your recent flat lay content has been really strong, the muted tones and fabric focus feel genuinely premium. The thing is, when someone taps through to the site from that content the experience does not quite match what they just saw, and that gap tends to cost brands at the checkout stage. I work with founder-led labels to close that gap with a proper Shopify redesign and Meta ads that actually reflect the brand. Would it be useful to have a quick chat about what that could look like for Percy Earl?
+          - article [ref=e226] [cursor=pointer]:
+            - generic [ref=e228]:
+              - generic [ref=e230]:
+                - heading "Rogue Territory UK" [level=3] [ref=e231]
+                - paragraph [ref=e232]: Independent streetwear
+                - paragraph [ref=e233]:
+                  - generic [ref=e234]: 📍
+                  - text: Manchester, UK
+              - generic [ref=e235]:
+                - generic "Fit score 7/10" [ref=e236]: 7/10
+                - button "Deselect prospect" [pressed] [ref=e237]:
+                  - img [ref=e238]
+            - generic [ref=e240]:
+              - generic [ref=e241]:
+                - generic [ref=e242]: 🌐
+                - generic [ref=e243]: Shopify
+              - generic [ref=e244]:
+                - generic [ref=e245]: 👥
+                - generic [ref=e246]: 10k-18k followers
+              - link "rogueterritory.co.uk" [ref=e247]:
+                - /url: https://www.rogueterritory.co.uk
+                - generic [ref=e248]: ↗
+                - generic [ref=e249]: rogueterritory.co.uk
+              - link "rogueterritory.uk" [ref=e250]:
+                - /url: https://instagram.com/rogueterritory.uk
+                - generic [ref=e251]: "@"
+                - generic [ref=e252]: rogueterritory.uk
+            - generic [ref=e253]:
+              - paragraph [ref=e254]: Why they're a fit
+              - paragraph [ref=e255]: Rogue Territory UK operates a founder-run streetwear label with strong community engagement on Instagram but their Shopify build is using a standard free theme with default section layouts and no custom brand identity carried through the site experience. Product imagery and copy are inconsistent across pages, which signals the site was built quickly to get products live rather than to convert at scale. Brands at this stage routinely leave 20 to 30 percent of potential revenue on the table purely from weak site structure and no retargeting funnel.
+            - generic [ref=e256]:
+              - paragraph [ref=e257]:
+                - generic [ref=e258]: ⚡
+                - text: Why now
+              - paragraph [ref=e259]: Recent posts show a capsule collection building momentum organically, making this the right window to set up paid amplification before that energy fades.
+            - generic [ref=e260]:
+              - paragraph [ref=e261]: ⚠️ Note
+              - paragraph [ref=e262]: Founder may be protective of DIY identity and resistant to outside creative input, which could slow the sales process.
+            - generic [ref=e263]:
+              - button "View outreach" [ref=e265]:
+                - text: View outreach
+                - img [ref=e266]
+              - generic [ref=e268]: That capsule content you have been putting out lately has a real visual identity to it, the colour palette and styling choices are doing a lot of the heavy lifting. I noticed the site does not quite carry that same energy through to the product pages, which is worth thinking about when people are clicking through from a post they loved. I help independent UK streetwear brands turn that Instagram momentum into actual site revenue with better Shopify builds and Meta ads. Is that something you have been thinking about for this drop?
+        - generic [ref=e271]:
+          - paragraph [ref=e272]: 5 prospects selected
+          - button "Deselect all" [ref=e273] [cursor=pointer]
+          - button "Save to CLIENTR" [ref=e274] [cursor=pointer]:
+            - text: Save to CLIENTR
+            - img [ref=e275]
+  - alert [ref=e37]
